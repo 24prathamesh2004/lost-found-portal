@@ -122,9 +122,7 @@ const HomePage = () => {
             </Link>
           </>
         )}
-        <div style={membersStyle}>
-          <GroupInfo /> {/* Display the GroupInfo component here */}
-        </div>
+        
       </div>
     </>
   );
